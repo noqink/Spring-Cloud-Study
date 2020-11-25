@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: cloud-payment-service
+    name: CLOUD-PAYMENT-SERVICE
   cloud:
     zookeeper:
       connect-string: 10.240.8.173:2181

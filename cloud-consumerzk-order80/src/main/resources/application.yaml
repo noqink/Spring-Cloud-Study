@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: cloud-orderzk-service
+    name: CLOUD-ORDERZK-SERVICE
   cloud:
     zookeeper:
       connect-string: 10.240.8.173:2181
